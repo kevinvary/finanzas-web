@@ -1,6 +1,4 @@
-
-Flask
-gunicorn
-pillow
-numpy
-matplotlib
+Flask==3.1.1
+Flask-SocketIO==5.3.6
+Gunicorn==23.0.0
+sqlite3
