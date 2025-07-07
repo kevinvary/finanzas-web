@@ -1,6 +1,6 @@
 
-flask
-flask_sqlalchemy
-matplotlib
+Flask
+gunicorn
 pillow
 numpy
+matplotlib
